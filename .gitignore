@@ -30,9 +30,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Ignore model files and uploads
-backend/models/*.pkl
-backend/uploads/eeg_files/
 
 # Ignore Node.js dependencies
 node_modules/
